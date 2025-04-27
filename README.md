@@ -18,7 +18,9 @@ We aim to publish this research first in an IEEE Conference, patent it and licen
 The project intent included not only disaster mitigation and disaster preparedness but urban planning and town development utility as well
 
 
-Link to Video Explanation: 
+Link to Video Explanation: https://drive.google.com/file/d/19M47DEh2v0gLR_S2uyrtNUYtCvUHtW32/view?usp=drivesdk
+
+
 Technologies Used: Django ORM, RestAPI, React.js، Docker, Kubernetes, Ensemble Modeling, Gradient Boosting, LSTM, RNN, CI/CD Integration, Firebase
 
 
